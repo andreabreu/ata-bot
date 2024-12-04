@@ -29,8 +29,8 @@ Certifique-se de que os seguintes itens estão instalados no seu ambiente:
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seuusuario/MP4-Audio-Transcription-API.git
-cd MP4-Audio-Transcription-API
+git clone https://github.com/seuusuario/ata-bot.git
+cd ata-bot
 ```
 
 2. Crie um ambiente virtual e ative:
